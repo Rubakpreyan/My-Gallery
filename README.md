@@ -12,7 +12,7 @@ git clone "https://github.com/rubakpreyan/My-Gallery.git"
 ```
 
 ## Demo link
-[My Gallery Page demo link]()
+[My Gallery Page demo link]( https://rubakpreyan.github.io/My-Gallery/)
 
 ## Credits
 Resource from [DevChallenges](https://devchallenges.io/)
